@@ -413,7 +413,7 @@ Server running on port 3001
 
 > แทรกรูปภาพที่นี่
 
-![C:\Users\TAEGAZYX\Desktop\hotel-booking-system\images\1.png](../images/1.png)
+![alt text](../images/1.png)
 ---
 
 ## การทดลองที่ 2: การทดสอบ API ด้วย Postman
